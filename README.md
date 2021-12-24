@@ -40,8 +40,8 @@ A passionate Senior UI Developer with seven plus years of experience creating us
 <hr />
 
 <div style="display: flex;">
- <img class="img" src="https://github-readme-stackoverflow.vercel.app/?userID=6825064" />
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=shivanayakd" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanayakd" />
+ <img class="img" src="https://github-readme-stackoverflow.vercel.app/?userID=6825064" width="30%"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=shivanayakd" width="30%"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanayakd" width="30%"/>
 </div>
 
