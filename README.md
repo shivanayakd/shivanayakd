@@ -39,4 +39,9 @@ A passionate Senior UI Developer with seven plus years of experience creating us
 
 <hr />
 
-[![Shiva Nayak's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6825064)](https://stackoverflow.com/users/6825064/shiva-nayak-dharavath)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stackoverflow.vercel.app/?userID=6825064" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=shivanayakd" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanayakd" />
+</div>
+
